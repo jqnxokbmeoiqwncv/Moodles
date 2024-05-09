@@ -452,7 +452,7 @@ public unsafe static class UI
                     }
                 }));
             }
-            ImGuiEx.EzTable(null, ImGuiTableFlags.RowBg | ImGuiTableFlags.Borders, entries);
+            ImGuiEx.EzTable(null, ImGuiTableFlags.RowBg | ImGuiTableFlags.Borders, entries, true);
         }
     }
 
