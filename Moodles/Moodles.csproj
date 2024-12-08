@@ -33,7 +33,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="DalamudPackager" Version="2.1.12" />
+        <PackageReference Include="DalamudPackager" Version="2.1.13" />
         <PackageReference Include="MemoryPack" Version="1.10.0" />
         <PackageReference Include="MemoryPack.Core" Version="1.10.0" />
         <PackageReference Include="MemoryPack.Generator" Version="1.10.0">
